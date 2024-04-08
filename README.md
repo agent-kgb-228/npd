@@ -1,2 +1,2 @@
 # Самозанятый Петренко З. А.
-[oferta](oferta)
+[oferta](oferta.md)
