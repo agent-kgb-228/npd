@@ -27,6 +27,28 @@
   </tr>
 </table>
 
+<footer>
+        <div class="container">
+            &copy; 2022-2024 <b>Самозанятый Петренко Захар Александрович</b>
+            <br>
+            <b>ИНН 614907967417</b>
+            <br>
+            <b>+7-(905)-457-53-08</b>
+            <a href="https://vk.com/z.petr2022" target="_blank"><img src="/gggames/snake/VKM.png" alt=""
+                    class="iconka"></a>
+            <hr>
+            <div class="re">
+                <a href="/price list/">Прайс лист</a>
+                <a href="oferta.md">Оферта</a>
+                <a href="/user-agreement/">Пользовательское соглашение</a>
+                <a href="FZ-422.md">ФЗ-422</a>
+                <a href="/payments/">Способы оплаты</a>
+                <a href="/privacy-policy/">Политика конфиденциальности</a>
+                <a href="https://vk.me/club199124251" target="_blank"> Обратная свзяь </a>
+            </div>
+            <hr>
+        </div>
+    </footer>
 
 
 
