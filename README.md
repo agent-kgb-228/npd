@@ -39,9 +39,9 @@
             <hr>
             <div class="re">
                 <a href="/price list/">Прайс лист</a>
-                <a href="oferta.md">Оферта</a>
+                <a href="oferta">Оферта</a>
                 <a href="/user-agreement/">Пользовательское соглашение</a>
-                <a href="FZ-422.md">ФЗ-422</a>
+                <a href="FZ-422">ФЗ-422</a>
                 <a href="/payments/">Способы оплаты</a>
                 <a href="/privacy-policy/">Политика конфиденциальности</a>
                 <a href="https://vk.me/club199124251" target="_blank"> Обратная свзяь </a>
